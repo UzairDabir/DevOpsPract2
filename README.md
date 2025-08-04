@@ -1,2 +1,1 @@
-# DevOpsPract2
-This is my DevOps Practical 2 
+devops-practical-2
