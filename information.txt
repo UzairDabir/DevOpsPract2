@@ -1,0 +1,2 @@
+Hello My name is Uzair 
+This practical focuses on Git operations.
